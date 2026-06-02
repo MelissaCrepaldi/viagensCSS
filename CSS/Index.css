@@ -36,6 +36,7 @@ img {
 
 .paises {
     display: flex;
+    flex-wrap: wrap;    
     justify-content: space-around;
     border-radius: 8px;
     background-color: #c3b4d8;

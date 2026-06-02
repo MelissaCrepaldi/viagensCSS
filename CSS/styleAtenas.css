@@ -3,11 +3,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: rgb(65, 131, 231);
     padding: auto;
-    background-image: url("../imagensMBC/greciaBandeira.svg");
-    background-repeat:no-repeat;
-    background-position: center center;
-    background-size: contain;
-    background-attachment: fixed;
+   
 
 }
 
